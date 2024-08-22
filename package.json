@@ -1,0 +1,16 @@
+{
+  "name": "node_file_system",
+  "version": "1.0.0",
+  "description": "Node_file_system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "author": "sathish kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
